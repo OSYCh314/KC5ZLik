@@ -1,5 +1,10 @@
 body {
   font-family: system-ui, sans-serif;
+  background-color: lightblue;
+}
+
+p {
+    color: green;
 }
 
 h1, h2, h3, p, figcaption {
