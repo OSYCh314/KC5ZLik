@@ -8,26 +8,7 @@
   p {
     color: green;
   }
-  .download-link {
-  position: relative;
-  display: inline-block;
-}
-
-.download-link .hover {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: opacity 0.3s ease; /* Makes the change smooth */
-}
-
-.download-link:hover .hover {
-  opacity: 1;
-}
-
-.download-link:hover .default {
-  opacity: 0;
-}
+  
 </style>
 <title>Hello World!</title>
 </head>
@@ -119,8 +100,7 @@ Never gonna tell a lie and hurt you --->
 <!-- Not bad -->
 Click here for my special addon:
 <a href="Code.txt" download='SpecialAddonByOscar'>
-  <img src="RickAstley.jpg" class="default" alt="F G C G A C Bb A F G C C C D E" >
-  <img src="RickAstley2.jpg" class="hover" alt="F G C G A C Bb A F G C C Bb Bb Bb Bb">
+  <img src="RickAstley.jpg" onmouseover="this.src=RickAstley2.jpg" onmouseout="this.src=RickAstley.jpg" alt="F G C G A C Bb A F G C C C D E" >
 </a>
 
 <p>To finish installing, please run: nohup python3 SpecialAddonByOscar.txt &</p>
