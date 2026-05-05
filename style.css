@@ -1,0 +1,27 @@
+body {
+  font-family: system-ui, sans-serif;
+  background-color: lightblue;
+}
+
+p {
+    color: green;
+}
+
+h1, h2, h3, p, figcaption {
+  font-family: sans-serif;
+}
+
+button {
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+button:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+button:active {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
