@@ -16,6 +16,9 @@ button {
     border-radius: 12px;
     cursor: pointer;
     transition: all 0.2s ease;
+    color: rgba(0,2,2,0.2);
+    height: 100px;
+    width: 200px;
 }
 
 button:hover {
