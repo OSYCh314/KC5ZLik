@@ -16,7 +16,7 @@ button {
     border-radius: 12px;
     cursor: pointer;
     transition: all 0.2s ease;
-    background-color: rgba(0,2,2,0.2);
+    color: green;
     height: 100px;
     width: 200px;
 }
