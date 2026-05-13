@@ -12,7 +12,7 @@ h1, h2, h3, p, figcaption {
 }
 
 button {
-    border: none;
+    border: 5px;
     cursor: crosshair;
     transition: all 0.2s ease;
     color: black;
