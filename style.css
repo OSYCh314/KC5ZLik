@@ -15,10 +15,11 @@ button {
     border: none;
     cursor: crosshair;
     transition: all 0.2s ease;
-    color: green;
-    height: 25px;
+    color: black;
+    height: 50px;
     width: 75px;
-    foreground-color: blue;
+    foreground-color: #0033FF;
+    border-radius: 10px;
 }
 
 button:hover {
