@@ -13,12 +13,12 @@ h1, h2, h3, p, figcaption {
 
 button {
     border: none;
-    border-radius: 12px;
-    cursor: pointer;
+    cursor: crosshair;
     transition: all 0.2s ease;
     color: green;
-    height: 100px;
-    width: 200px;
+    height: 25px;
+    width: 75px;
+    background-color: blue;
 }
 
 button:hover {
