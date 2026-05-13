@@ -18,7 +18,7 @@ button {
     color: green;
     height: 25px;
     width: 75px;
-    background-color: blue;
+    foreground-color: blue;
 }
 
 button:hover {
