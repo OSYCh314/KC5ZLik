@@ -18,7 +18,7 @@ button {
     color: black;
     height: 50px;
     width: 75px;
-    foreground-color: #0033FF;
+    border-color: #0033FF;
     border-radius: 10px;
 }
 
