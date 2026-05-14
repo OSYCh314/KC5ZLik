@@ -36,7 +36,6 @@ button:active {
     left: 15px;
     height: 400px;
     width: 25%;
+    max-width: 500px;
     background-color: #DDDDDD;
-    border: 10px;
-    border-radius: 25px;
 }
