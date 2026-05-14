@@ -45,3 +45,8 @@ button:active {
     border-color: #999999;
     border-radius: 15px;
 }
+
+.divLeft img {
+    height: 70%;
+    width: auto;
+}
