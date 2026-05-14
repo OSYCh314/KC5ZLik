@@ -34,10 +34,12 @@ button:active {
 .divLeft {
     position: relative;
     left: 15px;
-    height: 400px;
+    height: 350px;
     width: 25%;
     max-width: 500px;
     background-color: #DDDDDD;
-    border: 10px solid magenta;
+    border-style: solid;
+    border: 10px;
+    border-color: magenta;
     border-radius: 25px;
 }
