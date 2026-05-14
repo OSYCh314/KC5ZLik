@@ -34,5 +34,6 @@ button:active {
 .divLeft {
     position: relative;
     left: 15px;
-    right: 900px;
+    height: 400px;
+    width: 250px;
 }
