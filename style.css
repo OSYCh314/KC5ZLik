@@ -19,7 +19,8 @@ button {
     height: 50px;
     width: 75px;
     border-color: #0033FF;
-    border-radius: 10px;
+    border-radius: 15px;
+    foreground-color: green;
 }
 
 button:hover {
