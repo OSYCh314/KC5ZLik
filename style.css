@@ -39,10 +39,7 @@ button:active {
     width: 25%;
     max-width: 400px;
     background-color: #DDDDDD;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 10px 10px 10px 10px;
     border-style: solid;
     border: 5px;
     border-color: #999999;
