@@ -20,7 +20,7 @@ button {
     width: 75px;
     border-color: #0033FF;
     border-radius: 15px;
-    foreground-color: green;
+    background-color: green;
 }
 
 button:hover {
@@ -35,5 +35,6 @@ button:active {
     position: relative;
     left: 15px;
     height: 400px;
-    width: 250px;
+    width: 25%;
+    background-color: #222222;
 }
