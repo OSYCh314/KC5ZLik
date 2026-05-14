@@ -30,3 +30,9 @@ button:hover {
 button:active {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
 }
+
+.divLeft {
+    position: relative;
+    left: 20px;
+    right: 750px;
+}
