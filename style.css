@@ -36,5 +36,6 @@ button:active {
     left: 15px;
     height: 400px;
     width: 25%;
-    background-color: #222222;
+    background-color: #DDDDDD;
+    border-radius: 25px;
 }
