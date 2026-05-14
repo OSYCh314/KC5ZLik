@@ -40,6 +40,6 @@ button:active {
     background-color: #DDDDDD;
     border-style: solid;
     border: 10px;
-    border-color: magenta;
+    border-color: #DDDDDD;
     border-radius: 25px;
 }
