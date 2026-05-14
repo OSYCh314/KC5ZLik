@@ -47,6 +47,8 @@ button:active {
 }
 
 .divLeft img {
-    height: 70%;
+    height: 50%;
+    max-height: 250px;
     width: auto;
+    max-width: 300px;
 }
