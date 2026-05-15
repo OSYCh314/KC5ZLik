@@ -47,8 +47,8 @@ button:active {
 }
 
 .divLeft img {
-    height: 250px;
-    width: auto;
+    height: auto;
+    width: 70%*divLeft.width;
 }
 
 .divRight {
