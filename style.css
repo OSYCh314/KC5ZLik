@@ -48,8 +48,9 @@ button:active {
 
 .divLeft img {
     object-fit: contain;
-    height: 20%;
+    height: 100%;
     width: auto;
+    max-width: 100%;
 }
 
 .divRight {
