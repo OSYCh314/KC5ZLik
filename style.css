@@ -54,8 +54,8 @@ button:active {
 
 .divRight {
     position: relative;
-    bottom: 33%;
-    left: 75%;
+    bottom: -33%;
+    left: 77%;
     max-height: 500px;
     width: 22%;
     max-width: 400px;
