@@ -49,7 +49,7 @@ button:active {
 .divLeft img {
     object-fit: contain;
     width: auto;
-    height: 100%;
+    height: 75%;
 }
 
 .divRight {
