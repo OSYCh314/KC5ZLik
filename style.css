@@ -35,7 +35,7 @@ button:active {
     position: relative;
     left: 15px;
     height: 400px;
-    width: 330px;
+    width: 33%;
     background-color: #DDDDDD;
     padding: 10px 10px 10px 10px;
     border-style: solid;
@@ -46,16 +46,16 @@ button:active {
 
 .divLeft img {
     object-fit: contain;
-    height: 250px;
-    width: auto;
+    height: 750%;
+    width: 750%;
 }
 
 .divRight {
     position: relative;
     bottom: 840px;
-    left: 1020px;
+    left: 68%;
     height: 400px;
-    width: 330px;
+    width: 33%;
     background-color: #DDDDDD;
     padding: 10px 10px 10px 10px;
     border-style: solid;
@@ -73,9 +73,9 @@ button:active {
 .divMid {
     position: relative;
     bottom: 420px;
-    left: 510px;
+    left: 34%px;
     height: 400px;
-    width: 330px;
+    width: 33%;
     background-color: #DDDDDD;
     padding: 10px 10px 10px 10px;
     border-style: solid;
