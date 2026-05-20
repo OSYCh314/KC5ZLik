@@ -83,3 +83,9 @@ button:active {
     border-color: #999999;
     border-radius: 15px;
 }
+
+.divRight img {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
