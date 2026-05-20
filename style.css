@@ -73,7 +73,7 @@ button:active {
 .divMid {
     position: relative;
     bottom: 420px;
-    left: 34%px;
+    left: 34%;
     height: 400px;
     width: 33%;
     background-color: #DDDDDD;
