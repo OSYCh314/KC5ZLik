@@ -53,7 +53,7 @@ button:active {
 .divRight {
     position: relative;
     bottom: 400px;
-    left: 1000px;
+    left: 500px;
     height: 400px;
     width: 330px;
     background-color: #DDDDDD;
@@ -68,4 +68,18 @@ button:active {
     object-fit: contain;
     width: 100%;
     height: auto;
+}
+
+.divMid {
+    position: relative;
+    bottom: 400px;
+    left: 500px;
+    height: 400px;
+    width: 330px;
+    background-color: #DDDDDD;
+    padding: 10px 10px 10px 10px;
+    border-style: solid;
+    border: 5px;
+    border-color: #999999;
+    border-radius: 15px;
 }
