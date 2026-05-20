@@ -52,8 +52,8 @@ button:active {
 
 .divRight {
     position: relative;
-    bottom: 820px;
-    left: 1000px;
+    bottom: 840px;
+    left: 1200px;
     height: 400px;
     width: 330px;
     background-color: #DDDDDD;
@@ -72,8 +72,8 @@ button:active {
 
 .divMid {
     position: relative;
-    bottom: 410px;
-    left: 500px;
+    bottom: 420px;
+    left: 510px;
     height: 400px;
     width: 330px;
     background-color: #DDDDDD;
