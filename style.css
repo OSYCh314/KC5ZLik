@@ -47,8 +47,8 @@ button:active {
   padding: 10px;
 }
 
-.divLeft, .divMid, .divRight img {
-    object-fit: contain;
-    width: 25%;
-    height: auto;
+.divLeft img, .divMid img, .divRight img{
+  object-fit: contain;
+  width: 100%;
+  height: auto;
 }
