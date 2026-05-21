@@ -31,17 +31,20 @@ button:active {
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
 }
 
-.divLeft {
-    position: relative;
-    left: 15px;
+.divLeft, .divMid, .divRight {
     height: 500px;
     width: 30%;
     background-color: #DDDDDD;
-    padding: 10px 10px 10px 10px;
-    border-style: solid;
-    border: 5px;
-    border-color: #999999;
+    padding: 10px;
+    border: 5px solid #999999;
     border-radius: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
 }
 
 .divLeft img {
@@ -50,38 +53,11 @@ button:active {
     width: 75%;
 }
 
-.divRight {
-    position: relative;
-    bottom: 1040px;
-    left: 68%;
-    height: 500px;
-    width: 30%;
-    background-color: #DDDDDD;
-    padding: 10px 10px 10px 10px;
-    border-style: solid;
-    border: 5px;
-    border-color: #999999;
-    border-radius: 15px;
-}
 
 .divRight img {
     object-fit: contain;
     width: 100%;
     height: auto;
-}
-
-.divMid {
-    position: relative;
-    bottom: 520px;
-    left: 34%;
-    height: 500px;
-    width: 30%;
-    background-color: #DDDDDD;
-    padding: 10px 10px 10px 10px;
-    border-style: solid;
-    border: 5px;
-    border-color: #999999;
-    border-radius: 15px;
 }
 
 .divMid img {
