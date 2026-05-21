@@ -32,7 +32,7 @@ button:active {
 }
 
 .divLeft, .divMid, .divRight {
-    height: 30%;
+    height: 60%;
     width: 30%;
     background-color: #DDDDDD;
     padding: 10px;
